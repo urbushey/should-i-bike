@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Should I bike to work today?</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="@urbushey">
+    
+    <link rel="stylesheet" style="text/css" href="shouldibike.css" />
+    
+    <script src="js/jquery-1.7.2.js"></script> 
+    <script type="text/javascript">
+    // globals
+    var badConditions = new Array();
+
+    $(document).ready(function() {
+        $.getJSON('badconditions.json', function (json) {
+                alert(json);
+        });
+        $('#zip').change (function () {
+            $.getJSON($('#zip').val() + '.json', function (json) {
+                $.each(json.hourly_forecast, function (i, forecast) {
+                    $("#weather").append('<p>' + forecast.FCTTIME.civil + ' ' + forecast.condition + '</p>');
+                });
+            });
+        });
+    });
+    </script>
+  
+  </head>
+  
+  <body>
+
+  <div id="weather">Weather: </div>
+  <div>Zip: <input id="zip"/></div>
+
+  </body>
+</html>

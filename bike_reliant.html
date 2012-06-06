@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Should I bike to work today?</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="@urbushey">
+    
+    <!-- Le styles -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <style>
+      body {
+        padding-top: 5em; /* 60px to make the container go all the way to the bottom of the topbar */
+      }
+    </style>
+    <link href="css/bootstrap-responsive.css" rel="stylesheet">
+    <link rel="stylesheet" style="text/css" href="css/shouldibike.css" />
+    <script src="js/secret.js"></script>
+    <script src="js/jquery-1.7.2.js"></script> 
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Le fav and touch icons -->
+
+    <link rel="shortcut icon" href="ico/favicon.ico">
+    <script type="text/javascript">
+    // globals
+    $.support.cors = true;
+    var shouldIBike = "YES";
+    var badConditions = [
+                            "Chance of Flurries",
+                            "Chance of Rain",
+                            "Chance of Freezing Rain",
+                            "Chance of Sleet",
+                            "Chance of Snow",
+                            "Chance of Thunderstorms",
+                            "Chance of a Thunderstorm",
+                            "Chance of Light Rain Showers",
+                            "Freezing Rain",
+                            "Rain",
+                            "Sleet",
+                            "Snow",
+                            "Sunny",
+                            "Thunderstorms",
+                            "Thunderstorm",
+                        ]
+
+    $(document).ready(function() {
+        $('#zip').change (function () {
+            var reason = "It's a beautiful day!";
+            URL = constructWUURL();
+            $.ajax({
+                  url: $('#zip').val() + '.json',
+                  dataType: "json",
+                  success: function (json) {
+                      len = json.hourly_forecast.length;
+                      forecast_loop:
+                      for (var i = 0;  i < len; i++) {
+                          //$("#weather").append('<p>' + forecast.FCTTIME.civil + ' ' + forecast.condition + '</p>');
+                          if (badConditions.indexOf(json.hourly_forecast[i].condition) != -1) 
+                              { 
+                                shouldIBike = "No";
+                                reason = json.hourly_forecast[i].condition;
+                                reasonHTML = "<br><img src=\'" + json.hourly_forecast[i].icon_url + "\'> " + reason
+                                $('#shouldIBike').html(shouldIBike);
+                                $('#reason').html(reasonHTML);
+                                break forecast_loop;
+                              }
+                      
+                      } // endfor
+                      // If it's still a beautiful day, full steam ahead!
+                      if (reason === "It's a beautiful day!") {
+                          shouldIBike = "Yes!";
+                          reasonHTML = "<br><img src=\'" + json.hourly_forecast[0].icon_url + "\'> "
+                          $('#shouldIBike').html(shouldIBike);
+                          $('#reason').html(reasonHTML + "=)");
+                      } // endif
+                  }
+            });
+        });
+    });
+
+  function constructWUURL() {
+      var URL = "http://api.wunderground.com" +
+          "/api/" +
+          key +
+          "/hourly/q/" +
+          $('#zip').val() +
+          ".json";
+      return encodeURI(URL);
+  }
+    </script>
+  
+  </head>
+  
+  <body>
+  
+  <div class="navbar navbar-fixed-top">
+    <div class="navbar-inner">
+      <div class="container">
+        <a class="brand" href="#">Should I Bike To Work Today?</a>
+      </div>
+    </div>
+  </div>
+  <div id="shouldIBike"> </div>
+  <br>
+  <div id="reason"><img src = "" /></div>
+  <br>
+  <div>Zip: <input class = "zip" id="zip"/></div>
+  
+   <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="js/bootstrap.js"></script>
+  </body>
+</html>

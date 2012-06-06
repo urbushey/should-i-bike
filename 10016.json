@@ -1,0 +1,912 @@
+
+{
+    "response": {
+        "version": "0.1"
+        ,"termsofService": "http://www.wunderground.com/weather/api/d/terms.html"
+        ,"features": {
+        "hourly": 1
+        }
+    }
+        ,
+    "hourly_forecast": [
+        {
+        "FCTTIME": {
+        "hour": "21","hour_padded": "21","min": "00","sec": "0","year": "2012","mon": "5","mon_padded": "05","mon_abbrev": "May","mday": "26","mday_padded": "26","yday": "146","isdst": "1","epoch": "1338080400","pretty": "9:00 PM EDT on May 26, 2012","civil": "9:00 PM","month_name": "May","month_name_abbrev": "May","weekday_name": "Saturday","weekday_name_night": "Saturday Night","weekday_name_abbrev": "Sat","weekday_name_unlang": "Saturday","weekday_name_night_unlang": "Saturday Night","ampm": "PM","tz": "","age": ""
+        },
+        "temp": {"english": "80", "metric": "26"},
+        "dewpoint": {"english": "67", "metric": "19"},
+        "condition": "Chance of a Thunderstorm",
+        "icon": "chancetstorms",
+        "icon_url":"http://icons-ak.wxug.com/i/c/k/nt_chancetstorms.gif",
+        "fctcode": "14",
+        "sky": "85",
+        "wspd": {"english": "5", "metric": "8"},
+        "wdir": {"dir": "SW", "degrees": "232"},
+        "wx": " Chance of Thunderstorms , Chance of Light Rain Showers ",
+        "uvi": "0",
+        "humidity": "64",
+        "windchill": {"english": "-9998", "metric": "-9998"},
+        "heatindex": {"english": "-3277", "metric": "-3313"},
+        "feelslike": {"english": "80", "metric": "26"},
+        "qpf": {"english": "", "metric": ""},
+        "snow": {"english": "", "metric": ""},
+        "pop": "30",
+        "mslp": {"english": "30.09", "metric": "1018"}
+        }
+        ,
+        {
+        "FCTTIME": {
+        "hour": "22","hour_padded": "22","min": "00","sec": "0","year": "2012","mon": "5","mon_padded": "05","mon_abbrev": "May","mday": "26","mday_padded": "26","yday": "146","isdst": "1","epoch": "1338084000","pretty": "10:00 PM EDT on May 26, 2012","civil": "10:00 PM","month_name": "May","month_name_abbrev": "May","weekday_name": "Saturday","weekday_name_night": "Saturday Night","weekday_name_abbrev": "Sat","weekday_name_unlang": "Saturday","weekday_name_night_unlang": "Saturday Night","ampm": "PM","tz": "","age": ""
+        },
+        "temp": {"english": "78", "metric": "26"},
+        "dewpoint": {"english": "65", "metric": "19"},
+        "condition": "Chance of a Thunderstorm",
+        "icon": "chancetstorms",
+        "icon_url":"http://icons-ak.wxug.com/i/c/k/nt_chancetstorms.gif",
+        "fctcode": "14",
+        "sky": "85",
+        "wspd": {"english": "4", "metric": "7"},
+        "wdir": {"dir": "SW", "degrees": "232"},
+        "wx": " Chance of Thunderstorms , Chance of Light Rain Showers ",
+        "uvi": "0",
+        "humidity": "64",
+        "windchill": {"english": "-9998", "metric": "-9998"},
+        "heatindex": {"english": "-6638", "metric": "-6656"},
+        "feelslike": {"english": "78", "metric": "26"},
+        "qpf": {"english": "", "metric": ""},
+        "snow": {"english": "", "metric": ""},
+        "pop": "30",
+        "mslp": {"english": "30.09", "metric": "1018"}
+        }
+        ,
+        {
+        "FCTTIME": {
+        "hour": "23","hour_padded": "23","min": "00","sec": "0","year": "2012","mon": "5","mon_padded": "05","mon_abbrev": "May","mday": "26","mday_padded": "26","yday": "146","isdst": "1","epoch": "1338087600","pretty": "11:00 PM EDT on May 26, 2012","civil": "11:00 PM","month_name": "May","month_name_abbrev": "May","weekday_name": "Saturday","weekday_name_night": "Saturday Night","weekday_name_abbrev": "Sat","weekday_name_unlang": "Saturday","weekday_name_night_unlang": "Saturday Night","ampm": "PM","tz": "","age": ""
+        },
+        "temp": {"english": "77", "metric": "25"},
+        "dewpoint": {"english": "64", "metric": "18"},
+        "condition": "Chance of Rain",
+        "icon": "chancerain",
+        "icon_url":"http://icons-ak.wxug.com/i/c/k/nt_chancerain.gif",
+        "fctcode": "10",
+        "sky": "6",
+        "wspd": {"english": "3", "metric": "5"},
+        "wdir": {"dir": "West", "degrees": "262"},
+        "wx": " Slight Chance Light Rain Showers ",
+        "uvi": "0",
+        "humidity": "63",
+        "windchill": {"english": "-9998", "metric": "-9998"},
+        "heatindex": {"english": "-9998", "metric": "-9998"},
+        "feelslike": {"english": "77", "metric": "25"},
+        "qpf": {"english": "0.02", "metric": "0.51"},
+        "snow": {"english": "", "metric": ""},
+        "pop": "30",
+        "mslp": {"english": "30.10", "metric": "1019"}
+        }
+        ,
+        {
+        "FCTTIME": {
+        "hour": "0","hour_padded": "00","min": "00","sec": "0","year": "2012","mon": "5","mon_padded": "05","mon_abbrev": "May","mday": "27","mday_padded": "27","yday": "147","isdst": "1","epoch": "1338091200","pretty": "12:00 AM EDT on May 27, 2012","civil": "12:00 AM","month_name": "May","month_name_abbrev": "May","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "AM","tz": "","age": ""
+        },
+        "temp": {"english": "75", "metric": "24"},
+        "dewpoint": {"english": "64", "metric": "18"},
+        "condition": "Chance of Rain",
+        "icon": "chancerain",
+        "icon_url":"http://icons-ak.wxug.com/i/c/k/nt_chancerain.gif",
+        "fctcode": "10",
+        "sky": "6",
+        "wspd": {"english": "3", "metric": "5"},
+        "wdir": {"dir": "West", "degrees": "262"},
+        "wx": " Slight Chance Light Rain Showers ",
+        "uvi": "0",
+        "humidity": "67",
+        "windchill": {"english": "-9998", "metric": "-9998"},
+        "heatindex": {"english": "-9998", "metric": "-9998"},
+        "feelslike": {"english": "75", "metric": "24"},
+        "qpf": {"english": "", "metric": ""},
+        "snow": {"english": "", "metric": ""},
+        "pop": "30",
+        "mslp": {"english": "30.10", "metric": "1019"}
+        }
+        ,
+        {
+        "FCTTIME": {
+        "hour": "1","hour_padded": "01","min": "00","sec": "0","year": "2012","mon": "5","mon_padded": "05","mon_abbrev": "May","mday": "27","mday_padded": "27","yday": "147","isdst": "1","epoch": "1338094800","pretty": "1:00 AM EDT on May 27, 2012","civil": "1:00 AM","month_name": "May","month_name_abbrev": "May","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "AM","tz": "","age": ""
+        },
+        "temp": {"english": "74", "metric": "23"},
+        "dewpoint": {"english": "63", "metric": "17"},
+        "condition": "Chance of Rain",
+        "icon": "chancerain",
+        "icon_url":"http://icons-ak.wxug.com/i/c/k/nt_chancerain.gif",
+        "fctcode": "10",
+        "sky": "6",
+        "wspd": {"english": "4", "metric": "6"},
+        "wdir": {"dir": "West", "degrees": "262"},
+        "wx": " Slight Chance Light Rain Showers ",
+        "uvi": "0",
+        "humidity": "70",
+        "windchill": {"english": "-9998", "metric": "-9998"},
+        "heatindex": {"english": "-9998", "metric": "-9998"},
+        "feelslike": {"english": "74", "metric": "23"},
+        "qpf": {"english": "", "metric": ""},
+        "snow": {"english": "", "metric": ""},
+        "pop": "30",
+        "mslp": {"english": "30.10", "metric": "1019"}
+        }
+        ,
+        {
+        "FCTTIME": {
+        "hour": "2","hour_padded": "02","min": "00","sec": "0","year": "2012","mon": "5","mon_padded": "05","mon_abbrev": "May","mday": "27","mday_padded": "27","yday": "147","isdst": "1","epoch": "1338098400","pretty": "2:00 AM EDT on May 27, 2012","civil": "2:00 AM","month_name": "May","month_name_abbrev": "May","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "AM","tz": "","age": ""
+        },
+        "temp": {"english": "72", "metric": "22"},
+        "dewpoint": {"english": "63", "metric": "17"},
+        "condition": "Clear",
+        "icon": "clear",
+        "icon_url":"http://icons-ak.wxug.com/i/c/k/nt_clear.gif",
+        "fctcode": "1",
+        "sky": "7",
+        "wspd": {"english": "4", "metric": "6"},
+        "wdir": {"dir": "North", "degrees": "354"},
+        "wx": "",
+        "uvi": "0",
+        "humidity": "74",
+        "windchill": {"english": "-9998", "metric": "-9998"},
+        "heatindex": {"english": "-9998", "metric": "-9998"},
+        "feelslike": {"english": "72", "metric": "22"},
+        "qpf": {"english": "0.02", "metric": "0.51"},
+        "snow": {"english": "0.00", "metric": "0.00"},
+        "pop": "10",
+        "mslp": {"english": "30.10", "metric": "1019"}
+        }
+        ,
+        {
+        "FCTTIME": {
+        "hour": "3","hour_padded": "03","min": "00","sec": "0","year": "2012","mon": "5","mon_padded": "05","mon_abbrev": "May","mday": "27","mday_padded": "27","yday": "147","isdst": "1","epoch": "1338102000","pretty": "3:00 AM EDT on May 27, 2012","civil": "3:00 AM","month_name": "May","month_name_abbrev": "May","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "AM","tz": "","age": ""
+        },
+        "temp": {"english": "69", "metric": "21"},
+        "dewpoint": {"english": "59", "metric": "15"},
+        "condition": "Clear",
+        "icon": "clear",
+        "icon_url":"http://icons-ak.wxug.com/i/c/k/nt_clear.gif",
+        "fctcode": "1",
+        "sky": "7",
+        "wspd": {"english": "4", "metric": "6"},
+        "wdir": {"dir": "North", "degrees": "354"},
+        "wx": "",
+        "uvi": "0",
+        "humidity": "70",
+        "windchill": {"english": "-9998", "metric": "-9998"},
+        "heatindex": {"english": "-9998", "metric": "-9998"},
+        "feelslike": {"english": "69", "metric": "21"},
+        "qpf": {"english": "", "metric": ""},
+        "snow": {"english": "", "metric": ""},
+        "pop": "10",
+        "mslp": {"english": "30.10", "metric": "1019"}
+        }
+        ,
+        {
+        "FCTTIME": {
+        "hour": "4","hour_padded": "04","min": "00","sec": "0","year": "2012","mon": "5","mon_padded": "05","mon_abbrev": "May","mday": "27","mday_padded": "27","yday": "147","isdst": "1","epoch": "1338105600","pretty": "4:00 AM EDT on May 27, 2012","civil": "4:00 AM","month_name": "May","month_name_abbrev": "May","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "AM","tz": "","age": ""
+        },
+        "temp": {"english": "67", "metric": "19"},
+        "dewpoint": {"english": "56", "metric": "13"},
+        "condition": "Clear",
+        "icon": "clear",
+        "icon_url":"http://icons-ak.wxug.com/i/c/k/nt_clear.gif",
+        "fctcode": "1",
+        "sky": "7",
+        "wspd": {"english": "3", "metric": "5"},
+        "wdir": {"dir": "North", "degrees": "354"},
+        "wx": "",
+        "uvi": "0",
+        "humidity": "67",
+        "windchill": {"english": "-9998", "metric": "-9998"},
+        "heatindex": {"english": "-9998", "metric": "-9998"},
+        "feelslike": {"english": "67", "metric": "19"},
+        "qpf": {"english": "", "metric": ""},
+        "snow": {"english": "", "metric": ""},
+        "pop": "10",
+        "mslp": {"english": "30.10", "metric": "1019"}
+        }
+        ,
+        {
+        "FCTTIME": {
+        "hour": "5","hour_padded": "05","min": "00","sec": "0","year": "2012","mon": "5","mon_padded": "05","mon_abbrev": "May","mday": "27","mday_padded": "27","yday": "147","isdst": "1","epoch": "1338109200","pretty": "5:00 AM EDT on May 27, 2012","civil": "5:00 AM","month_name": "May","month_name_abbrev": "May","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "AM","tz": "","age": ""
+        },
+        "temp": {"english": "64", "metric": "18"},
+        "dewpoint": {"english": "52", "metric": "11"},
+        "condition": "Chance of Rain",
+        "icon": "chancerain",
+        "icon_url":"http://icons-ak.wxug.com/i/c/k/nt_chancerain.gif",
+        "fctcode": "10",
+        "sky": "27",
+        "wspd": {"english": "3", "metric": "5"},
+        "wdir": {"dir": "NNE", "degrees": "29"},
+        "wx": " Slight Chance Light Rain Showers ",
+        "uvi": "0",
+        "humidity": "63",
+        "windchill": {"english": "-9998", "metric": "-9998"},
+        "heatindex": {"english": "-9998", "metric": "-9998"},
+        "feelslike": {"english": "64", "metric": "18"},
+        "qpf": {"english": "0.00", "metric": "0.00"},
+        "snow": {"english": "", "metric": ""},
+        "pop": "20",
+        "mslp": {"english": "30.12", "metric": "1019"}
+        }
+        ,
+        {
+        "FCTTIME": {
+        "hour": "6","hour_padded": "06","min": "00","sec": "0","year": "2012","mon": "5","mon_padded": "05","mon_abbrev": "May","mday": "27","mday_padded": "27","yday": "147","isdst": "1","epoch": "1338112800","pretty": "6:00 AM EDT on May 27, 2012","civil": "6:00 AM","month_name": "May","month_name_abbrev": "May","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "AM","tz": "","age": ""
+        },
+        "temp": {"english": "67", "metric": "19"},
+        "dewpoint": {"english": "53", "metric": "12"},
+        "condition": "Chance of Rain",
+        "icon": "chancerain",
+        "icon_url":"http://icons-ak.wxug.com/i/c/k/chancerain.gif",
+        "fctcode": "10",
+        "sky": "27",
+        "wspd": {"english": "3", "metric": "5"},
+        "wdir": {"dir": "NNE", "degrees": "29"},
+        "wx": " Slight Chance Light Rain Showers ",
+        "uvi": "0",
+        "humidity": "61",
+        "windchill": {"english": "-9998", "metric": "-9998"},
+        "heatindex": {"english": "-9998", "metric": "-9998"},
+        "feelslike": {"english": "67", "metric": "19"},
+        "qpf": {"english": "", "metric": ""},
+        "snow": {"english": "", "metric": ""},
+        "pop": "20",
+        "mslp": {"english": "30.12", "metric": "1019"}
+        }
+        ,
+        {
+        "FCTTIME": {
+        "hour": "7","hour_padded": "07","min": "00","sec": "0","year": "2012","mon": "5","mon_padded": "05","mon_abbrev": "May","mday": "27","mday_padded": "27","yday": "147","isdst": "1","epoch": "1338116400","pretty": "7:00 AM EDT on May 27, 2012","civil": "7:00 AM","month_name": "May","month_name_abbrev": "May","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "AM","tz": "","age": ""
+        },
+        "temp": {"english": "69", "metric": "21"},
+        "dewpoint": {"english": "54", "metric": "12"},
+        "condition": "Chance of Rain",
+        "icon": "chancerain",
+        "icon_url":"http://icons-ak.wxug.com/i/c/k/chancerain.gif",
+        "fctcode": "10",
+        "sky": "27",
+        "wspd": {"english": "4", "metric": "6"},
+        "wdir": {"dir": "NNE", "degrees": "29"},
+        "wx": " Slight Chance Light Rain Showers ",
+        "uvi": "0",
+        "humidity": "59",
+        "windchill": {"english": "-9998", "metric": "-9998"},
+        "heatindex": {"english": "-9998", "metric": "-9998"},
+        "feelslike": {"english": "69", "metric": "21"},
+        "qpf": {"english": "", "metric": ""},
+        "snow": {"english": "", "metric": ""},
+        "pop": "20",
+        "mslp": {"english": "30.12", "metric": "1019"}
+        }
+        ,
+        {
+        "FCTTIME": {
+        "hour": "8","hour_padded": "08","min": "00","sec": "0","year": "2012","mon": "5","mon_padded": "05","mon_abbrev": "May","mday": "27","mday_padded": "27","yday": "147","isdst": "1","epoch": "1338120000","pretty": "8:00 AM EDT on May 27, 2012","civil": "8:00 AM","month_name": "May","month_name_abbrev": "May","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "AM","tz": "","age": ""
+        },
+        "temp": {"english": "72", "metric": "22"},
+        "dewpoint": {"english": "55", "metric": "13"},
+        "condition": "Chance of Rain",
+        "icon": "chancerain",
+        "icon_url":"http://icons-ak.wxug.com/i/c/k/chancerain.gif",
+        "fctcode": "10",
+        "sky": "27",
+        "wspd": {"english": "4", "metric": "6"},
+        "wdir": {"dir": "ENE", "degrees": "60"},
+        "wx": " Slight Chance Light Rain Showers ",
+        "uvi": "2",
+        "humidity": "57",
+        "windchill": {"english": "-9998", "metric": "-9998"},
+        "heatindex": {"english": "-9998", "metric": "-9998"},
+        "feelslike": {"english": "72", "metric": "22"},
+        "qpf": {"english": "0.00", "metric": "0.00"},
+        "snow": {"english": "0.00", "metric": "0.00"},
+        "pop": "20",
+        "mslp": {"english": "30.18", "metric": "1022"}
+        }
+        ,
+        {
+        "FCTTIME": {
+        "hour": "9","hour_padded": "09","min": "00","sec": "0","year": "2012","mon": "5","mon_padded": "05","mon_abbrev": "May","mday": "27","mday_padded": "27","yday": "147","isdst": "1","epoch": "1338123600","pretty": "9:00 AM EDT on May 27, 2012","civil": "9:00 AM","month_name": "May","month_name_abbrev": "May","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "AM","tz": "","age": ""
+        },
+        "temp": {"english": "74", "metric": "23"},
+        "dewpoint": {"english": "58", "metric": "14"},
+        "condition": "Chance of Rain",
+        "icon": "chancerain",
+        "icon_url":"http://icons-ak.wxug.com/i/c/k/chancerain.gif",
+        "fctcode": "10",
+        "sky": "27",
+        "wspd": {"english": "5", "metric": "7"},
+        "wdir": {"dir": "ENE", "degrees": "60"},
+        "wx": " Slight Chance Light Rain Showers ",
+        "uvi": "2",
+        "humidity": "58",
+        "windchill": {"english": "-9998", "metric": "-9998"},
+        "heatindex": {"english": "-9998", "metric": "-9998"},
+        "feelslike": {"english": "74", "metric": "23"},
+        "qpf": {"english": "", "metric": ""},
+        "snow": {"english": "", "metric": ""},
+        "pop": "20",
+        "mslp": {"english": "30.18", "metric": "1022"}
+        }
+        ,
+        {
+        "FCTTIME": {
+        "hour": "10","hour_padded": "10","min": "00","sec": "0","year": "2012","mon": "5","mon_padded": "05","mon_abbrev": "May","mday": "27","mday_padded": "27","yday": "147","isdst": "1","epoch": "1338127200","pretty": "10:00 AM EDT on May 27, 2012","civil": "10:00 AM","month_name": "May","month_name_abbrev": "May","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "AM","tz": "","age": ""
+        },
+        "temp": {"english": "75", "metric": "24"},
+        "dewpoint": {"english": "60", "metric": "16"},
+        "condition": "Chance of Rain",
+        "icon": "chancerain",
+        "icon_url":"http://icons-ak.wxug.com/i/c/k/chancerain.gif",
+        "fctcode": "10",
+        "sky": "27",
+        "wspd": {"english": "5", "metric": "9"},
+        "wdir": {"dir": "ENE", "degrees": "60"},
+        "wx": " Slight Chance Light Rain Showers ",
+        "uvi": "2",
+        "humidity": "58",
+        "windchill": {"english": "-9998", "metric": "-9998"},
+        "heatindex": {"english": "-9998", "metric": "-9998"},
+        "feelslike": {"english": "75", "metric": "24"},
+        "qpf": {"english": "", "metric": ""},
+        "snow": {"english": "", "metric": ""},
+        "pop": "20",
+        "mslp": {"english": "30.18", "metric": "1022"}
+        }
+        ,
+        {
+        "FCTTIME": {
+        "hour": "11","hour_padded": "11","min": "00","sec": "0","year": "2012","mon": "5","mon_padded": "05","mon_abbrev": "May","mday": "27","mday_padded": "27","yday": "147","isdst": "1","epoch": "1338130800","pretty": "11:00 AM EDT on May 27, 2012","civil": "11:00 AM","month_name": "May","month_name_abbrev": "May","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "AM","tz": "","age": ""
+        },
+        "temp": {"english": "77", "metric": "25"},
+        "dewpoint": {"english": "63", "metric": "17"},
+        "condition": "Chance of a Thunderstorm",
+        "icon": "chancetstorms",
+        "icon_url":"http://icons-ak.wxug.com/i/c/k/chancetstorms.gif",
+        "fctcode": "14",
+        "sky": "62",
+        "wspd": {"english": "6", "metric": "10"},
+        "wdir": {"dir": "East", "degrees": "92"},
+        "wx": " Slight Chance Thunderstorms , Slight Chance Light Rain Showers ",
+        "uvi": "4",
+        "humidity": "59",
+        "windchill": {"english": "-9998", "metric": "-9998"},
+        "heatindex": {"english": "-9998", "metric": "-9998"},
+        "feelslike": {"english": "77", "metric": "25"},
+        "qpf": {"english": "0.04", "metric": "1.02"},
+        "snow": {"english": "", "metric": ""},
+        "pop": "30",
+        "mslp": {"english": "30.15", "metric": "1021"}
+        }
+        ,
+        {
+        "FCTTIME": {
+        "hour": "12","hour_padded": "12","min": "00","sec": "0","year": "2012","mon": "5","mon_padded": "05","mon_abbrev": "May","mday": "27","mday_padded": "27","yday": "147","isdst": "1","epoch": "1338134400","pretty": "12:00 PM EDT on May 27, 2012","civil": "12:00 PM","month_name": "May","month_name_abbrev": "May","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "PM","tz": "","age": ""
+        },
+        "temp": {"english": "77", "metric": "25"},
+        "dewpoint": {"english": "65", "metric": "18"},
+        "condition": "Chance of a Thunderstorm",
+        "icon": "chancetstorms",
+        "icon_url":"http://icons-ak.wxug.com/i/c/k/chancetstorms.gif",
+        "fctcode": "14",
+        "sky": "62",
+        "wspd": {"english": "6", "metric": "10"},
+        "wdir": {"dir": "East", "degrees": "92"},
+        "wx": " Slight Chance Thunderstorms , Slight Chance Light Rain Showers ",
+        "uvi": "4",
+        "humidity": "65",
+        "windchill": {"english": "-9998", "metric": "-9998"},
+        "heatindex": {"english": "-9998", "metric": "-9998"},
+        "feelslike": {"english": "77", "metric": "25"},
+        "qpf": {"english": "", "metric": ""},
+        "snow": {"english": "", "metric": ""},
+        "pop": "30",
+        "mslp": {"english": "30.15", "metric": "1021"}
+        }
+        ,
+        {
+        "FCTTIME": {
+        "hour": "13","hour_padded": "13","min": "00","sec": "0","year": "2012","mon": "5","mon_padded": "05","mon_abbrev": "May","mday": "27","mday_padded": "27","yday": "147","isdst": "1","epoch": "1338138000","pretty": "1:00 PM EDT on May 27, 2012","civil": "1:00 PM","month_name": "May","month_name_abbrev": "May","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "PM","tz": "","age": ""
+        },
+        "temp": {"english": "77", "metric": "25"},
+        "dewpoint": {"english": "68", "metric": "20"},
+        "condition": "Chance of a Thunderstorm",
+        "icon": "chancetstorms",
+        "icon_url":"http://icons-ak.wxug.com/i/c/k/chancetstorms.gif",
+        "fctcode": "14",
+        "sky": "62",
+        "wspd": {"english": "7", "metric": "11"},
+        "wdir": {"dir": "East", "degrees": "92"},
+        "wx": " Slight Chance Thunderstorms , Slight Chance Light Rain Showers ",
+        "uvi": "4",
+        "humidity": "71",
+        "windchill": {"english": "-9998", "metric": "-9998"},
+        "heatindex": {"english": "-9998", "metric": "-9998"},
+        "feelslike": {"english": "77", "metric": "25"},
+        "qpf": {"english": "", "metric": ""},
+        "snow": {"english": "", "metric": ""},
+        "pop": "30",
+        "mslp": {"english": "30.15", "metric": "1021"}
+        }
+        ,
+        {
+        "FCTTIME": {
+        "hour": "14","hour_padded": "14","min": "00","sec": "0","year": "2012","mon": "5","mon_padded": "05","mon_abbrev": "May","mday": "27","mday_padded": "27","yday": "147","isdst": "1","epoch": "1338141600","pretty": "2:00 PM EDT on May 27, 2012","civil": "2:00 PM","month_name": "May","month_name_abbrev": "May","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "PM","tz": "","age": ""
+        },
+        "temp": {"english": "77", "metric": "25"},
+        "dewpoint": {"english": "70", "metric": "21"},
+        "condition": "Chance of a Thunderstorm",
+        "icon": "chancetstorms",
+        "icon_url":"http://icons-ak.wxug.com/i/c/k/chancetstorms.gif",
+        "fctcode": "14",
+        "sky": "99",
+        "wspd": {"english": "7", "metric": "11"},
+        "wdir": {"dir": "SE", "degrees": "140"},
+        "wx": " Chance of Light Rain Showers , Slight Chance Thunderstorms ",
+        "uvi": "3",
+        "humidity": "77",
+        "windchill": {"english": "-9998", "metric": "-9998"},
+        "heatindex": {"english": "-9998", "metric": "-9998"},
+        "feelslike": {"english": "77", "metric": "25"},
+        "qpf": {"english": "0.04", "metric": "1.02"},
+        "snow": {"english": "0.00", "metric": "0.00"},
+        "pop": "30",
+        "mslp": {"english": "30.10", "metric": "1019"}
+        }
+        ,
+        {
+        "FCTTIME": {
+        "hour": "15","hour_padded": "15","min": "00","sec": "0","year": "2012","mon": "5","mon_padded": "05","mon_abbrev": "May","mday": "27","mday_padded": "27","yday": "147","isdst": "1","epoch": "1338145200","pretty": "3:00 PM EDT on May 27, 2012","civil": "3:00 PM","month_name": "May","month_name_abbrev": "May","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "PM","tz": "","age": ""
+        },
+        "temp": {"english": "78", "metric": "25"},
+        "dewpoint": {"english": "70", "metric": "21"},
+        "condition": "Chance of a Thunderstorm",
+        "icon": "chancetstorms",
+        "icon_url":"http://icons-ak.wxug.com/i/c/k/chancetstorms.gif",
+        "fctcode": "14",
+        "sky": "99",
+        "wspd": {"english": "7", "metric": "12"},
+        "wdir": {"dir": "SE", "degrees": "140"},
+        "wx": " Chance of Light Rain Showers , Slight Chance Thunderstorms ",
+        "uvi": "3",
+        "humidity": "76",
+        "windchill": {"english": "-9998", "metric": "-9998"},
+        "heatindex": {"english": "-9998", "metric": "-9998"},
+        "feelslike": {"english": "78", "metric": "25"},
+        "qpf": {"english": "", "metric": ""},
+        "snow": {"english": "", "metric": ""},
+        "pop": "30",
+        "mslp": {"english": "30.10", "metric": "1019"}
+        }
+        ,
+        {
+        "FCTTIME": {
+        "hour": "16","hour_padded": "16","min": "00","sec": "0","year": "2012","mon": "5","mon_padded": "05","mon_abbrev": "May","mday": "27","mday_padded": "27","yday": "147","isdst": "1","epoch": "1338148800","pretty": "4:00 PM EDT on May 27, 2012","civil": "4:00 PM","month_name": "May","month_name_abbrev": "May","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "PM","tz": "","age": ""
+        },
+        "temp": {"english": "78", "metric": "26"},
+        "dewpoint": {"english": "70", "metric": "21"},
+        "condition": "Chance of a Thunderstorm",
+        "icon": "chancetstorms",
+        "icon_url":"http://icons-ak.wxug.com/i/c/k/chancetstorms.gif",
+        "fctcode": "14",
+        "sky": "99",
+        "wspd": {"english": "8", "metric": "12"},
+        "wdir": {"dir": "SE", "degrees": "140"},
+        "wx": " Chance of Light Rain Showers , Slight Chance Thunderstorms ",
+        "uvi": "3",
+        "humidity": "76",
+        "windchill": {"english": "-9998", "metric": "-9998"},
+        "heatindex": {"english": "-9998", "metric": "-9998"},
+        "feelslike": {"english": "78", "metric": "26"},
+        "qpf": {"english": "", "metric": ""},
+        "snow": {"english": "", "metric": ""},
+        "pop": "30",
+        "mslp": {"english": "30.10", "metric": "1019"}
+        }
+        ,
+        {
+        "FCTTIME": {
+        "hour": "17","hour_padded": "17","min": "00","sec": "0","year": "2012","mon": "5","mon_padded": "05","mon_abbrev": "May","mday": "27","mday_padded": "27","yday": "147","isdst": "1","epoch": "1338152400","pretty": "5:00 PM EDT on May 27, 2012","civil": "5:00 PM","month_name": "May","month_name_abbrev": "May","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "PM","tz": "","age": ""
+        },
+        "temp": {"english": "79", "metric": "26"},
+        "dewpoint": {"english": "70", "metric": "21"},
+        "condition": "Chance of a Thunderstorm",
+        "icon": "chancetstorms",
+        "icon_url":"http://icons-ak.wxug.com/i/c/k/chancetstorms.gif",
+        "fctcode": "14",
+        "sky": "77",
+        "wspd": {"english": "8", "metric": "13"},
+        "wdir": {"dir": "SSE", "degrees": "160"},
+        "wx": " Chance of Light Rain Showers , Slight Chance Thunderstorms ",
+        "uvi": "1",
+        "humidity": "75",
+        "windchill": {"english": "-9998", "metric": "-9998"},
+        "heatindex": {"english": "-9998", "metric": "-9998"},
+        "feelslike": {"english": "79", "metric": "26"},
+        "qpf": {"english": "0.00", "metric": "0.00"},
+        "snow": {"english": "", "metric": ""},
+        "pop": "30",
+        "mslp": {"english": "30.08", "metric": "1018"}
+        }
+        ,
+        {
+        "FCTTIME": {
+        "hour": "18","hour_padded": "18","min": "00","sec": "0","year": "2012","mon": "5","mon_padded": "05","mon_abbrev": "May","mday": "27","mday_padded": "27","yday": "147","isdst": "1","epoch": "1338156000","pretty": "6:00 PM EDT on May 27, 2012","civil": "6:00 PM","month_name": "May","month_name_abbrev": "May","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "PM","tz": "","age": ""
+        },
+        "temp": {"english": "78", "metric": "25"},
+        "dewpoint": {"english": "69", "metric": "21"},
+        "condition": "Chance of a Thunderstorm",
+        "icon": "chancetstorms",
+        "icon_url":"http://icons-ak.wxug.com/i/c/k/chancetstorms.gif",
+        "fctcode": "14",
+        "sky": "77",
+        "wspd": {"english": "7", "metric": "12"},
+        "wdir": {"dir": "SSE", "degrees": "160"},
+        "wx": " Chance of Light Rain Showers , Slight Chance Thunderstorms ",
+        "uvi": "1",
+        "humidity": "77",
+        "windchill": {"english": "-9998", "metric": "-9998"},
+        "heatindex": {"english": "-9998", "metric": "-9998"},
+        "feelslike": {"english": "78", "metric": "25"},
+        "qpf": {"english": "", "metric": ""},
+        "snow": {"english": "", "metric": ""},
+        "pop": "30",
+        "mslp": {"english": "30.08", "metric": "1018"}
+        }
+        ,
+        {
+        "FCTTIME": {
+        "hour": "19","hour_padded": "19","min": "00","sec": "0","year": "2012","mon": "5","mon_padded": "05","mon_abbrev": "May","mday": "27","mday_padded": "27","yday": "147","isdst": "1","epoch": "1338159600","pretty": "7:00 PM EDT on May 27, 2012","civil": "7:00 PM","month_name": "May","month_name_abbrev": "May","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "PM","tz": "","age": ""
+        },
+        "temp": {"english": "76", "metric": "25"},
+        "dewpoint": {"english": "69", "metric": "20"},
+        "condition": "Chance of a Thunderstorm",
+        "icon": "chancetstorms",
+        "icon_url":"http://icons-ak.wxug.com/i/c/k/chancetstorms.gif",
+        "fctcode": "14",
+        "sky": "77",
+        "wspd": {"english": "7", "metric": "11"},
+        "wdir": {"dir": "SSE", "degrees": "160"},
+        "wx": " Chance of Light Rain Showers , Slight Chance Thunderstorms ",
+        "uvi": "1",
+        "humidity": "78",
+        "windchill": {"english": "-9998", "metric": "-9998"},
+        "heatindex": {"english": "-9998", "metric": "-9998"},
+        "feelslike": {"english": "76", "metric": "25"},
+        "qpf": {"english": "", "metric": ""},
+        "snow": {"english": "", "metric": ""},
+        "pop": "30",
+        "mslp": {"english": "30.08", "metric": "1018"}
+        }
+        ,
+        {
+        "FCTTIME": {
+        "hour": "20","hour_padded": "20","min": "00","sec": "0","year": "2012","mon": "5","mon_padded": "05","mon_abbrev": "May","mday": "27","mday_padded": "27","yday": "147","isdst": "1","epoch": "1338163200","pretty": "8:00 PM EDT on May 27, 2012","civil": "8:00 PM","month_name": "May","month_name_abbrev": "May","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "PM","tz": "","age": ""
+        },
+        "temp": {"english": "75", "metric": "24"},
+        "dewpoint": {"english": "68", "metric": "20"},
+        "condition": "Chance of a Thunderstorm",
+        "icon": "chancetstorms",
+        "icon_url":"http://icons-ak.wxug.com/i/c/k/chancetstorms.gif",
+        "fctcode": "14",
+        "sky": "54",
+        "wspd": {"english": "6", "metric": "10"},
+        "wdir": {"dir": "SSE", "degrees": "159"},
+        "wx": " Chance of Thunderstorms , Chance of Light Rain Showers ",
+        "uvi": "0",
+        "humidity": "80",
+        "windchill": {"english": "-9998", "metric": "-9998"},
+        "heatindex": {"english": "-9998", "metric": "-9998"},
+        "feelslike": {"english": "75", "metric": "24"},
+        "qpf": {"english": "0.00", "metric": "0.00"},
+        "snow": {"english": "0.00", "metric": "0.00"},
+        "pop": "30",
+        "mslp": {"english": "30.04", "metric": "1017"}
+        }
+        ,
+        {
+        "FCTTIME": {
+        "hour": "21","hour_padded": "21","min": "00","sec": "0","year": "2012","mon": "5","mon_padded": "05","mon_abbrev": "May","mday": "27","mday_padded": "27","yday": "147","isdst": "1","epoch": "1338166800","pretty": "9:00 PM EDT on May 27, 2012","civil": "9:00 PM","month_name": "May","month_name_abbrev": "May","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "PM","tz": "","age": ""
+        },
+        "temp": {"english": "72", "metric": "22"},
+        "dewpoint": {"english": "66", "metric": "19"},
+        "condition": "Chance of a Thunderstorm",
+        "icon": "chancetstorms",
+        "icon_url":"http://icons-ak.wxug.com/i/c/k/nt_chancetstorms.gif",
+        "fctcode": "14",
+        "sky": "54",
+        "wspd": {"english": "5", "metric": "9"},
+        "wdir": {"dir": "SSE", "degrees": "159"},
+        "wx": " Chance of Thunderstorms , Chance of Light Rain Showers ",
+        "uvi": "0",
+        "humidity": "81",
+        "windchill": {"english": "-9998", "metric": "-9998"},
+        "heatindex": {"english": "-9998", "metric": "-9998"},
+        "feelslike": {"english": "72", "metric": "22"},
+        "qpf": {"english": "", "metric": ""},
+        "snow": {"english": "", "metric": ""},
+        "pop": "30",
+        "mslp": {"english": "30.04", "metric": "1017"}
+        }
+        ,
+        {
+        "FCTTIME": {
+        "hour": "22","hour_padded": "22","min": "00","sec": "0","year": "2012","mon": "5","mon_padded": "05","mon_abbrev": "May","mday": "27","mday_padded": "27","yday": "147","isdst": "1","epoch": "1338170400","pretty": "10:00 PM EDT on May 27, 2012","civil": "10:00 PM","month_name": "May","month_name_abbrev": "May","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "PM","tz": "","age": ""
+        },
+        "temp": {"english": "69", "metric": "21"},
+        "dewpoint": {"english": "63", "metric": "17"},
+        "condition": "Chance of a Thunderstorm",
+        "icon": "chancetstorms",
+        "icon_url":"http://icons-ak.wxug.com/i/c/k/nt_chancetstorms.gif",
+        "fctcode": "14",
+        "sky": "54",
+        "wspd": {"english": "5", "metric": "7"},
+        "wdir": {"dir": "SSE", "degrees": "159"},
+        "wx": " Chance of Thunderstorms , Chance of Light Rain Showers ",
+        "uvi": "0",
+        "humidity": "81",
+        "windchill": {"english": "-9998", "metric": "-9998"},
+        "heatindex": {"english": "-9998", "metric": "-9998"},
+        "feelslike": {"english": "69", "metric": "21"},
+        "qpf": {"english": "", "metric": ""},
+        "snow": {"english": "", "metric": ""},
+        "pop": "30",
+        "mslp": {"english": "30.04", "metric": "1017"}
+        }
+        ,
+        {
+        "FCTTIME": {
+        "hour": "23","hour_padded": "23","min": "00","sec": "0","year": "2012","mon": "5","mon_padded": "05","mon_abbrev": "May","mday": "27","mday_padded": "27","yday": "147","isdst": "1","epoch": "1338174000","pretty": "11:00 PM EDT on May 27, 2012","civil": "11:00 PM","month_name": "May","month_name_abbrev": "May","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "PM","tz": "","age": ""
+        },
+        "temp": {"english": "66", "metric": "19"},
+        "dewpoint": {"english": "61", "metric": "16"},
+        "condition": "Chance of a Thunderstorm",
+        "icon": "chancetstorms",
+        "icon_url":"http://icons-ak.wxug.com/i/c/k/nt_chancetstorms.gif",
+        "fctcode": "14",
+        "sky": "75",
+        "wspd": {"english": "4", "metric": "6"},
+        "wdir": {"dir": "South", "degrees": "185"},
+        "wx": " Slight Chance Thunderstorms , Slight Chance Light Rain Showers ",
+        "uvi": "0",
+        "humidity": "82",
+        "windchill": {"english": "-9998", "metric": "-9998"},
+        "heatindex": {"english": "-9998", "metric": "-9998"},
+        "feelslike": {"english": "66", "metric": "19"},
+        "qpf": {"english": "0.01", "metric": "0.25"},
+        "snow": {"english": "", "metric": ""},
+        "pop": "30",
+        "mslp": {"english": "30.02", "metric": "1016"}
+        }
+        ,
+        {
+        "FCTTIME": {
+        "hour": "0","hour_padded": "00","min": "00","sec": "0","year": "2012","mon": "5","mon_padded": "05","mon_abbrev": "May","mday": "28","mday_padded": "28","yday": "148","isdst": "1","epoch": "1338177600","pretty": "12:00 AM EDT on May 28, 2012","civil": "12:00 AM","month_name": "May","month_name_abbrev": "May","weekday_name": "Monday","weekday_name_night": "Monday Night","weekday_name_abbrev": "Mon","weekday_name_unlang": "Monday","weekday_name_night_unlang": "Monday Night","ampm": "AM","tz": "","age": ""
+        },
+        "temp": {"english": "67", "metric": "20"},
+        "dewpoint": {"english": "62", "metric": "17"},
+        "condition": "Chance of a Thunderstorm",
+        "icon": "chancetstorms",
+        "icon_url":"http://icons-ak.wxug.com/i/c/k/nt_chancetstorms.gif",
+        "fctcode": "14",
+        "sky": "75",
+        "wspd": {"english": "4", "metric": "6"},
+        "wdir": {"dir": "South", "degrees": "185"},
+        "wx": " Slight Chance Thunderstorms , Slight Chance Light Rain Showers ",
+        "uvi": "0",
+        "humidity": "83",
+        "windchill": {"english": "-9998", "metric": "-9998"},
+        "heatindex": {"english": "-9998", "metric": "-9998"},
+        "feelslike": {"english": "67", "metric": "20"},
+        "qpf": {"english": "", "metric": ""},
+        "snow": {"english": "", "metric": ""},
+        "pop": "30",
+        "mslp": {"english": "30.02", "metric": "1016"}
+        }
+        ,
+        {
+        "FCTTIME": {
+        "hour": "1","hour_padded": "01","min": "00","sec": "0","year": "2012","mon": "5","mon_padded": "05","mon_abbrev": "May","mday": "28","mday_padded": "28","yday": "148","isdst": "1","epoch": "1338181200","pretty": "1:00 AM EDT on May 28, 2012","civil": "1:00 AM","month_name": "May","month_name_abbrev": "May","weekday_name": "Monday","weekday_name_night": "Monday Night","weekday_name_abbrev": "Mon","weekday_name_unlang": "Monday","weekday_name_night_unlang": "Monday Night","ampm": "AM","tz": "","age": ""
+        },
+        "temp": {"english": "69", "metric": "20"},
+        "dewpoint": {"english": "63", "metric": "17"},
+        "condition": "Chance of a Thunderstorm",
+        "icon": "chancetstorms",
+        "icon_url":"http://icons-ak.wxug.com/i/c/k/nt_chancetstorms.gif",
+        "fctcode": "14",
+        "sky": "75",
+        "wspd": {"english": "4", "metric": "6"},
+        "wdir": {"dir": "South", "degrees": "185"},
+        "wx": " Slight Chance Thunderstorms , Slight Chance Light Rain Showers ",
+        "uvi": "0",
+        "humidity": "84",
+        "windchill": {"english": "-9998", "metric": "-9998"},
+        "heatindex": {"english": "-9998", "metric": "-9998"},
+        "feelslike": {"english": "69", "metric": "20"},
+        "qpf": {"english": "", "metric": ""},
+        "snow": {"english": "", "metric": ""},
+        "pop": "30",
+        "mslp": {"english": "30.02", "metric": "1016"}
+        }
+        ,
+        {
+        "FCTTIME": {
+        "hour": "2","hour_padded": "02","min": "00","sec": "0","year": "2012","mon": "5","mon_padded": "05","mon_abbrev": "May","mday": "28","mday_padded": "28","yday": "148","isdst": "1","epoch": "1338184800","pretty": "2:00 AM EDT on May 28, 2012","civil": "2:00 AM","month_name": "May","month_name_abbrev": "May","weekday_name": "Monday","weekday_name_night": "Monday Night","weekday_name_abbrev": "Mon","weekday_name_unlang": "Monday","weekday_name_night_unlang": "Monday Night","ampm": "AM","tz": "","age": ""
+        },
+        "temp": {"english": "70", "metric": "21"},
+        "dewpoint": {"english": "64", "metric": "18"},
+        "condition": "Chance of a Thunderstorm",
+        "icon": "chancetstorms",
+        "icon_url":"http://icons-ak.wxug.com/i/c/k/nt_chancetstorms.gif",
+        "fctcode": "14",
+        "sky": "87",
+        "wspd": {"english": "4", "metric": "6"},
+        "wdir": {"dir": "SSW", "degrees": "209"},
+        "wx": " Slight Chance Thunderstorms , Slight Chance Light Rain Showers ",
+        "uvi": "0",
+        "humidity": "85",
+        "windchill": {"english": "-9998", "metric": "-9998"},
+        "heatindex": {"english": "-9998", "metric": "-9998"},
+        "feelslike": {"english": "70", "metric": "21"},
+        "qpf": {"english": "0.01", "metric": "0.25"},
+        "snow": {"english": "", "metric": ""},
+        "pop": "30",
+        "mslp": {"english": "30.09", "metric": "1018"}
+        }
+        ,
+        {
+        "FCTTIME": {
+        "hour": "3","hour_padded": "03","min": "00","sec": "0","year": "2012","mon": "5","mon_padded": "05","mon_abbrev": "May","mday": "28","mday_padded": "28","yday": "148","isdst": "1","epoch": "1338188400","pretty": "3:00 AM EDT on May 28, 2012","civil": "3:00 AM","month_name": "May","month_name_abbrev": "May","weekday_name": "Monday","weekday_name_night": "Monday Night","weekday_name_abbrev": "Mon","weekday_name_unlang": "Monday","weekday_name_night_unlang": "Monday Night","ampm": "AM","tz": "","age": ""
+        },
+        "temp": {"english": "69", "metric": "20"},
+        "dewpoint": {"english": "62", "metric": "17"},
+        "condition": "Chance of a Thunderstorm",
+        "icon": "chancetstorms",
+        "icon_url":"http://icons-ak.wxug.com/i/c/k/nt_chancetstorms.gif",
+        "fctcode": "14",
+        "sky": "87",
+        "wspd": {"english": "4", "metric": "7"},
+        "wdir": {"dir": "SSW", "degrees": "209"},
+        "wx": " Slight Chance Thunderstorms , Slight Chance Light Rain Showers ",
+        "uvi": "0",
+        "humidity": "83",
+        "windchill": {"english": "-9998", "metric": "-9998"},
+        "heatindex": {"english": "-9998", "metric": "-9998"},
+        "feelslike": {"english": "69", "metric": "20"},
+        "qpf": {"english": "", "metric": ""},
+        "snow": {"english": "", "metric": ""},
+        "pop": "30",
+        "mslp": {"english": "30.09", "metric": "1018"}
+        }
+        ,
+        {
+        "FCTTIME": {
+        "hour": "4","hour_padded": "04","min": "00","sec": "0","year": "2012","mon": "5","mon_padded": "05","mon_abbrev": "May","mday": "28","mday_padded": "28","yday": "148","isdst": "1","epoch": "1338192000","pretty": "4:00 AM EDT on May 28, 2012","civil": "4:00 AM","month_name": "May","month_name_abbrev": "May","weekday_name": "Monday","weekday_name_night": "Monday Night","weekday_name_abbrev": "Mon","weekday_name_unlang": "Monday","weekday_name_night_unlang": "Monday Night","ampm": "AM","tz": "","age": ""
+        },
+        "temp": {"english": "67", "metric": "20"},
+        "dewpoint": {"english": "61", "metric": "16"},
+        "condition": "Chance of a Thunderstorm",
+        "icon": "chancetstorms",
+        "icon_url":"http://icons-ak.wxug.com/i/c/k/nt_chancetstorms.gif",
+        "fctcode": "14",
+        "sky": "87",
+        "wspd": {"english": "5", "metric": "7"},
+        "wdir": {"dir": "SSW", "degrees": "209"},
+        "wx": " Slight Chance Thunderstorms , Slight Chance Light Rain Showers ",
+        "uvi": "0",
+        "humidity": "80",
+        "windchill": {"english": "-9998", "metric": "-9998"},
+        "heatindex": {"english": "-9998", "metric": "-9998"},
+        "feelslike": {"english": "67", "metric": "20"},
+        "qpf": {"english": "", "metric": ""},
+        "snow": {"english": "", "metric": ""},
+        "pop": "30",
+        "mslp": {"english": "30.09", "metric": "1018"}
+        }
+        ,
+        {
+        "FCTTIME": {
+        "hour": "5","hour_padded": "05","min": "00","sec": "0","year": "2012","mon": "5","mon_padded": "05","mon_abbrev": "May","mday": "28","mday_padded": "28","yday": "148","isdst": "1","epoch": "1338195600","pretty": "5:00 AM EDT on May 28, 2012","civil": "5:00 AM","month_name": "May","month_name_abbrev": "May","weekday_name": "Monday","weekday_name_night": "Monday Night","weekday_name_abbrev": "Mon","weekday_name_unlang": "Monday","weekday_name_night_unlang": "Monday Night","ampm": "AM","tz": "","age": ""
+        },
+        "temp": {"english": "66", "metric": "19"},
+        "dewpoint": {"english": "59", "metric": "15"},
+        "condition": "Chance of a Thunderstorm",
+        "icon": "chancetstorms",
+        "icon_url":"http://icons-ak.wxug.com/i/c/k/nt_chancetstorms.gif",
+        "fctcode": "14",
+        "sky": "93",
+        "wspd": {"english": "5", "metric": "8"},
+        "wdir": {"dir": "SW", "degrees": "227"},
+        "wx": " Slight Chance Thunderstorms , Slight Chance Light Rain Showers ",
+        "uvi": "0",
+        "humidity": "78",
+        "windchill": {"english": "-9998", "metric": "-9998"},
+        "heatindex": {"english": "-9998", "metric": "-9998"},
+        "feelslike": {"english": "66", "metric": "19"},
+        "qpf": {"english": "0.00", "metric": "0.00"},
+        "snow": {"english": "", "metric": ""},
+        "pop": "30",
+        "mslp": {"english": "30.08", "metric": "1018"}
+        }
+        ,
+        {
+        "FCTTIME": {
+        "hour": "6","hour_padded": "06","min": "00","sec": "0","year": "2012","mon": "5","mon_padded": "05","mon_abbrev": "May","mday": "28","mday_padded": "28","yday": "148","isdst": "1","epoch": "1338199200","pretty": "6:00 AM EDT on May 28, 2012","civil": "6:00 AM","month_name": "May","month_name_abbrev": "May","weekday_name": "Monday","weekday_name_night": "Monday Night","weekday_name_abbrev": "Mon","weekday_name_unlang": "Monday","weekday_name_night_unlang": "Monday Night","ampm": "AM","tz": "","age": ""
+        },
+        "temp": {"english": "68", "metric": "20"},
+        "dewpoint": {"english": "61", "metric": "16"},
+        "condition": "Chance of a Thunderstorm",
+        "icon": "chancetstorms",
+        "icon_url":"http://icons-ak.wxug.com/i/c/k/chancetstorms.gif",
+        "fctcode": "14",
+        "sky": "93",
+        "wspd": {"english": "5", "metric": "9"},
+        "wdir": {"dir": "SW", "degrees": "227"},
+        "wx": " Slight Chance Thunderstorms , Slight Chance Light Rain Showers ",
+        "uvi": "0",
+        "humidity": "79",
+        "windchill": {"english": "-9998", "metric": "-9998"},
+        "heatindex": {"english": "-9998", "metric": "-9998"},
+        "feelslike": {"english": "68", "metric": "20"},
+        "qpf": {"english": "", "metric": ""},
+        "snow": {"english": "", "metric": ""},
+        "pop": "30",
+        "mslp": {"english": "30.08", "metric": "1018"}
+        }
+        ,
+        {
+        "FCTTIME": {
+        "hour": "7","hour_padded": "07","min": "00","sec": "0","year": "2012","mon": "5","mon_padded": "05","mon_abbrev": "May","mday": "28","mday_padded": "28","yday": "148","isdst": "1","epoch": "1338202800","pretty": "7:00 AM EDT on May 28, 2012","civil": "7:00 AM","month_name": "May","month_name_abbrev": "May","weekday_name": "Monday","weekday_name_night": "Monday Night","weekday_name_abbrev": "Mon","weekday_name_unlang": "Monday","weekday_name_night_unlang": "Monday Night","ampm": "AM","tz": "","age": ""
+        },
+        "temp": {"english": "70", "metric": "21"},
+        "dewpoint": {"english": "64", "metric": "18"},
+        "condition": "Chance of a Thunderstorm",
+        "icon": "chancetstorms",
+        "icon_url":"http://icons-ak.wxug.com/i/c/k/chancetstorms.gif",
+        "fctcode": "14",
+        "sky": "93",
+        "wspd": {"english": "6", "metric": "9"},
+        "wdir": {"dir": "SW", "degrees": "227"},
+        "wx": " Slight Chance Thunderstorms , Slight Chance Light Rain Showers ",
+        "uvi": "0",
+        "humidity": "79",
+        "windchill": {"english": "-9998", "metric": "-9998"},
+        "heatindex": {"english": "-9998", "metric": "-9998"},
+        "feelslike": {"english": "70", "metric": "21"},
+        "qpf": {"english": "", "metric": ""},
+        "snow": {"english": "", "metric": ""},
+        "pop": "30",
+        "mslp": {"english": "30.08", "metric": "1018"}
+        }
+        ,
+        {
+        "FCTTIME": {
+        "hour": "8","hour_padded": "08","min": "00","sec": "0","year": "2012","mon": "5","mon_padded": "05","mon_abbrev": "May","mday": "28","mday_padded": "28","yday": "148","isdst": "1","epoch": "1338206400","pretty": "8:00 AM EDT on May 28, 2012","civil": "8:00 AM","month_name": "May","month_name_abbrev": "May","weekday_name": "Monday","weekday_name_night": "Monday Night","weekday_name_abbrev": "Mon","weekday_name_unlang": "Monday","weekday_name_night_unlang": "Monday Night","ampm": "AM","tz": "","age": ""
+        },
+        "temp": {"english": "72", "metric": "22"},
+        "dewpoint": {"english": "66", "metric": "19"},
+        "condition": "Chance of a Thunderstorm",
+        "icon": "chancetstorms",
+        "icon_url":"http://icons-ak.wxug.com/i/c/k/chancetstorms.gif",
+        "fctcode": "14",
+        "sky": "91",
+        "wspd": {"english": "6", "metric": "10"},
+        "wdir": {"dir": "WSW", "degrees": "239"},
+        "wx": " Chance of Thunderstorms , Chance of Light Rain Showers ",
+        "uvi": "1",
+        "humidity": "80",
+        "windchill": {"english": "-9998", "metric": "-9998"},
+        "heatindex": {"english": "-9998", "metric": "-9998"},
+        "feelslike": {"english": "72", "metric": "22"},
+        "qpf": {"english": "0.00", "metric": "0.00"},
+        "snow": {"english": "", "metric": ""},
+        "pop": "30",
+        "mslp": {"english": "30.13", "metric": "1020"}
+        }
+    ]
+}

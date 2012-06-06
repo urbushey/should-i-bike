@@ -1,0 +1,22 @@
+.navbar-inner .brand {
+    text-align: center;
+    float: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    font-size: 3em;
+}
+
+.zip {
+    font-family: Georgia;
+    letter-spacing: 0.25em;
+}
+
+#shouldIBike {
+    padding-top: 3em;
+    padding-bottom: 1em;
+    font-size: 5em;
+}
+
+body {
+    text-align: center;
+}
